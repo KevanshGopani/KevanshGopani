@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevanshgopani&label=Profile%20views&color=0e75b6&style=flat" alt="kevanshgopani" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://kevanshgopani.github.io/Portfolio-Website/](https://kevanshgopani.github.io/Portfolio-Website/)
-
+- 👨‍💻 All of my projects are available at (https://github.com/KevanshGopani?tab=repositories)
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **kevanshgopani5@gmail.com**
